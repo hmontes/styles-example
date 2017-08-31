@@ -39,13 +39,13 @@ Button.defaultProps = {
 Button.propTypes = {
     /** Sirve para asignar el color naranjo */
     orange: PropTypes.bool,
-    /** Sirve para asignar el color naranjo */
+    /** Sirve para asignar el color azul */
     blue: PropTypes.bool,
-    /** Sirve para asignar el color naranjo */
+    /** Sirve para asignar el color verde */
     green: PropTypes.bool,
-    /** Sirve para asignar el color naranjo */
+    /** Sirve para asignar el color de la red social Facebook */
     facebook: PropTypes.bool,
-    /** Sirve para asignar el color naranjo */
+    /** Sirve para asignar el color de Google */
     google: PropTypes.bool,
     /**
      * @param { SyntheticEvent } event Es el evento de React
