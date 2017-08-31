@@ -6,7 +6,7 @@ Este archivo es una demostración simple de Styled Components para entender su u
 
 Puedes ver la documentación de ejemplo en http://hmontes.github.io/styles-example
 
-## Motivation
+## Motivación
 
 He visto en muchos foros y grupos a personas preguntando sobre integrar Sass a React. También he visto gente armandose un lio con CSS con el choque de nombre de clases. La idea de Styled Components es poder armar los estilos dentro de cada componente en particular con nombres únicos, evitar hacer mixins (Común en Sass para aumentar la compatibilidad entre navegadores) y poder hacer @media de forma fácil. (Con la propiedad style no se puede hacer)
 
